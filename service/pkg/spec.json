@@ -1,0 +1,7 @@
+{
+    "name": "go-cli-template",
+    "author": "Chino Franco",
+    "repository": "https://github.com/jgfranco17/go-cli-template",
+    "version": "0.0.1",
+    "languages": ["Go"]
+}
